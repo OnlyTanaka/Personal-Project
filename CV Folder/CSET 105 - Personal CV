@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+        <head>
+        <title>Personal CV Assignment</title>
+        <style>
+            body{ 
+            background-color: cornflowerblue;
+            font-family: georgia(serif);
+            
+            }
+            header{
+            text-align: center;
+            }
+            section{
+            text-align: center;
+            }
+            .section2{
+            text-align: left;
+            }
+            .section3{
+            text-align: right;
+            }
+            .left{
+            width:60%;
+            float:left;
+            }
+            .right{
+            width:40%;
+            float:right;
+            }
+            img.a {
+            vertical-align: middle;
+            }
+            img.b {
+            vertical-align: baseline;
+            }
+            .center{
+             text-align: center;
+             border: 5px solid white;
+             margin: 20px 
+            }
+        </style>
+        </head>
+<body><font color="white">
+
+ <div>
+    <h2><font color="white"><img class="a" src="https://i.seadn.io/gae/fk0J30zdCm-QszMExaws1o5nftXA0iklsk1x8PFMI1eIMH97s9JGTqpu_tJQoX3D5VRGrL0DNGh27UKs6lmqaK96ydHtk2eSOp3H0Oo?auto=format&dpr=1&w=1000" 
+       width="100" height="100" alt="BMO"> Hello, I'm Charles Heap</font></h2>
+ </div>
+
+ <div class="center">
+    <h2>Personal Profile</h2>
+    <p>Hello, currently I'm a student at Thaddeus Stevens School of Technology. I'm attending this school to get my associates degree in Computer Software Engineering. With this degree, I hope to  become a Web Developer in the near future! </p>
+ </div>
+  
+ <div class="left">
+    <h2 class=>Education</h2>
+    <li>Highschool Graduate</li>
+    <li>Student at Thaddeus Stevens</li>
+ </div>
+ <div class="right">
+    <h2>Language Skills</h2>
+    <li>English (Fluent)</li>
+    <li>German (Intermediate)</li>
+ </div>
+
+ <div class="left">
+    <h2>Achievements</h2>
+    <li>Recieved my Highschool Diploma</li>
+    <li>Graduated with a 3.8 GPA</li>
+ </div>
+
+  <div class="right">
+    <h2>Contact Information</h2>
+    <li>Email: cheap4077@stevenscollege.edu </li>
+    <li>(#) - 717-867-5309</li>
+  </div> 
+
+</body></font>
+</html>
